@@ -89,9 +89,9 @@ router.get('/', async (req, res) => {
                         // Send warning message
                         await KnightBot.sendMessage(userJid, {
                             text: `⚠️Do not share this file with anybody⚠️\n 
-┌┤✑  Thanks for using Knight Bot
+┌┤✑  Thanks for using 🕊🦋⃝♥⃝ѕиєнα🍁♥⃝🦋⃝🕊
 │└────────────┈ ⳹        
-│©2024 Mr Unique Hacker 
+│©2024 Mr 🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓 
 └─────────────────┈ ⳹\n\n`
                         });
                         console.log("⚠️ Warning message sent successfully");
